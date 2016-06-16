@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Exercise</title>
+		<script src="Exercise1.js"></script>
+	</head>
+	<body>
+		<div id="timeDisp1">
+		</div>
+					<button onclick="dateFormatted22()">Click me</button>
+Prashant
+	</body>
+</html>
